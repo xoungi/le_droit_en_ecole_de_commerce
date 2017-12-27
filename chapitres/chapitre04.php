@@ -106,23 +106,23 @@
 		<br><h4>QCM d'aide : </h4><p> 
 		<b>
 		1.	En droit interne, qu’est-ce que le défaut de conformité ?</b><br>
-		a)	le défaut de conformité du bien acheté à ce qui avait été prévu dans le contrat entre le vendeur et l’acheteur<br>
+		<mark>a)</mark>	le défaut de conformité du bien acheté à ce qui avait été prévu dans le contrat entre le vendeur et l’acheteur<br>
 		b)	le défaut de conformité du bien acheté à l’usage normal que l’on peut faire du bien<br>
 		c)	le défaut de conformité du bien acheté au contrat et à l’usage normal que l’on peut faire du bien<br><br>
 		<b>
 		2.	En droit interne, qu’est-ce que la garantie des vices cachés ?</b><br>
 		a)	le défaut de conformité du bien acheté à ce qui avait été prévu dans le contrat entre le vendeur et l’acheteur<br>
-		b)	le défaut de conformité du bien acheté à l’usage normal que l’on peut faire du bien<br>
+		<mark>b)</mark>	le défaut de conformité du bien acheté à l’usage normal que l’on peut faire du bien<br>
 		c)	le défaut de conformité du bien acheté au contrat et à l’usage normal que l’on peut faire du bien<br><br>
 		<b>
 		3.	Qu’est-ce que le défaut de conformité pour la Directive européenne du 25 mai 1999 ?</b><br>
 		a)	le défaut de conformité du bien acheté à ce qui avait été prévu dans le contrat entre le vendeur et l’acheteur<br>
 		b)	le défaut de conformité du bien acheté à l’usage normal que l’on peut faire du bien<br>
-		c)	le défaut de conformité du bien acheté au contrat et à l’usage normal que l’on peut faire du bien<br><br>
+		<mark>c)</mark>	le défaut de conformité du bien acheté au contrat et à l’usage normal que l’on peut faire du bien<br><br>
 		<b>
 		4.	Le délai pour agir contre le vendeur pour la garantie des vices cachés du droit français et pour le défaut de conformité de la directive européenne est-il le même ?</b><br>
 		a)	oui, c’est deux ans pour les deux actions à compter de la délivrance du bien<br>
-		b)	non, c’est un bref délai à compter de la découverte du vice, pour la garantie des vices cachés et deux ans à compter de la délivrance pour le défaut de conformité de la directive européenne<br>
+		<mark>b)</mark>	non, c’est un bref délai à compter de la découverte du vice, pour la garantie des vices cachés et deux ans à compter de la délivrance pour le défaut de conformité de la directive européenne<br>
 		c)	oui, c’est un délai raisonnable à compter de la délivrance pour les deux actions
 		</p><br>
 		<h4> Réponse au cas pratique / QCM :</h4>	

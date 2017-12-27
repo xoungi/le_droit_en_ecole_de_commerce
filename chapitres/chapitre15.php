@@ -127,21 +127,21 @@
 		1.	Si M. MIRAIL souhaite exercer une action en nullité pour vice du consentement : laquelle serait la plus appropriée d’après les faits ?</b><br>
 		a)	le dol par manœuvre frauduleuses<br>
 		b)	l’erreur sur les qualités substantielles de la chose<br>
-		c)	la violence sous forme de contraintes morales suite à des pressions d’ordre économique<br><br>
+		<mark>c)</mark>	la violence sous forme de contraintes morales suite à des pressions d’ordre économique<br><br>
 		<b>
 		2.	Si M. MIRAIL choisit de se fonder sur le vice de la violence, quels sont les éléments constitutifs du vice qui feront défaut et empêcheront la demande d’aboutir ?</b><br>
-		a)	existence d’une contrainte morale<br>
-		b)	gravité de la violence<br>
-		c)	violence illégitime<br><br>
+		<mark>a)</mark>	existence d’une contrainte morale<br>
+		<mark>b)</mark>	gravité de la violence<br>
+		<mark>c)</mark>	violence illégitime<br><br>
 		<b>
 		3.	La clause reproduite concerne t-elle ?</b><br>
 		a)	la capacité à contracter des parties<br>
-		b)	l’objet du contrat<br>
+		<mark>b)</mark>	l’objet du contrat<br>
 		c)	la cause du contrat<br><br>
 		<b>
 		4.	Doit-on considérer la clause de prix indéterminé ou indéterminable du fait de l’absence de référence à un prix précis ?</b><br>
 		a)	oui, la clause de prix est indéterminable<br>
-		b)	non, la clause de prix est déterminable
+		<mark>b)</mark>	non, la clause de prix est déterminable
 		</p><br>
 		<h4> Réponse au cas pratique / QCM :</h4>	
 		<?php

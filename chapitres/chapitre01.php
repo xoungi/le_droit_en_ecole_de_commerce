@@ -116,17 +116,17 @@
 		<p> <b>1.	Un recours introduit par votre association contre l’arrêté municipal peut-il être intenté ?</b><br>
 		a)	aucun recours n’est possible<br>
 		b)	un recours en contrôle de constitutionnalité<br>
-		c)	un recours pour excès de pouvoir<br>
+		<mark>c)</mark>	un recours pour excès de pouvoir<br>
 		d)	un recours en exception d’illégalité<br>
 		<br><br>
 		<b>2.	Le recours pour excès de pouvoir est possible</b><br>
-		a)	uniquement devant un tribunal administratif<br>
+		<mark>a)</mark>	uniquement devant un tribunal administratif<br>
 		b)	devant une juridiction civile ou administrative, au choix<br>
-		c)	lorsque l’action concerne un arrêté<br>
+		<mark>c)</mark>	lorsque l’action concerne un arrêté<br>
 		d)	lorsque l’action concerne une loi<br>
 		<br><br>
 		<b>3.	Si le recours est admis, le recours pour excès de pouvoir produit ses effets</b><br>
-		a)	à l’égard de tous<br>
+		<mark>a)</mark>	à l’égard de tous<br>
 		b)	uniquement à l’égard de celui qui en fait la demande, en l’occurrence l’association<br>
 		c)	ne produit aucun effet
 		</p>

@@ -128,30 +128,30 @@
 		<br><h4>QCM d'aide : </h4><p> <b>
 		1.	Monsieur JYNOV cherche à contraindre Monsieur JEFORM à exécuter le contrat.</b><br>
 		a)	il peut le contraindre à s’exécuter car le contrat a été conclu<br>
-		b)	il peut seulement obtenir des dommages et intérêts car il s’agit d’une obligation de faire<br>
+		<mark>b)</mark>	il peut seulement obtenir des dommages et intérêts car il s’agit d’une obligation de faire<br>
 		c)	il peut obtenir à la fois des dommages et intérêts et une exécution forcée<br><br>
 		<b>
 		2.	Monsieur JYNOV a un certain nombre d’obligations par rapport à la clientèle, il a :</b><br>
-		a)	certainement une obligation de livrer un matériel conforme<br>
-		b)	une obligation de formation du client utilisateur<br>
+		<mark>a)</mark>	certainement une obligation de livrer un matériel conforme<br>
+		<mark>b)</mark>	une obligation de formation du client utilisateur<br>
 		c)	une obligation de sécurité de résultat avec en particulier l’obligation de répondre de tous les dommages pouvant survenir au client<br>
 		d)	seulement l’obligation d’avertir des risques liés à la mer<br><br>
 		<b>
 		3.	Les clients ont l’obligation…</b><br>
-		a)	de rendre le matériel à l’heure et en bon état<br>
+		<mark>a)</mark>	de rendre le matériel à l’heure et en bon état<br>
 		b)	de respecter les consignes de sécurité<br>
 		c)	uniquement de produire une attestation d’assurance responsabilité civile<br><br>
 		<b>
 		4.	Monsieur JYNOV le droit de limiter ses obligations et sa responsabilité</b><br>
 		a)	en cas de surréservation<br>
 		b)	seulement en cas de dommages corporel<br>
-		c)	s’il a averti les clients au moment de la remise du ticket qui vaut contrat<br>
-		d)	en cas de dommage matériel si le client à pris des risques inconsidérés<br><br>
+		<mark>c)</mark>	s’il a averti les clients au moment de la remise du ticket qui vaut contrat<br>
+		<mark>d)</mark>	en cas de dommage matériel si le client à pris des risques inconsidérés<br><br>
 		<b>
 		5.	La société RAPID POST peut limiter sa responsabilité</b><br>
 		a)	seulement en présence d’une clause particulière signée des deux parties<br>
 		b)	si le client n’ a pas précisé la valeur du colis et de son acheminement dans les délais<br>
-		c)	mais manque à son obligation essentielle ce qui rend le contrat sans cause et permet l’annulation de la clause</p><h4>
+		<mark>c)</mark>	mais manque à son obligation essentielle ce qui rend le contrat sans cause et permet l’annulation de la clause</p><h4>
 		<br>
 		<h4> Réponse au cas pratique / QCM :</h4>	
 		<?php

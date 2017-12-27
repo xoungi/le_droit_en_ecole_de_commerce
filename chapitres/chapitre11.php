@@ -128,21 +128,22 @@
 		1.	La victime d’une infection nosocomiale peut obtenir une indemnisation :</b><br>
 		a)	uniquement pour ses dommages les plus graves<br>
 		b)	uniquement en cas de « manquement caractérisé aux obligations posées par la réglementation en matière de lutte contre les infections nosocomiales »<br>
-		c)	sur le fondement de la responsabilité de plein droit de l’établissement de santé<br><br>
+		c)	sur le fondement de la responsabilité de plein droit de l’établissement de santé<br>
+		<mark>d)</mark><br><br>
 		<b>
 		2.	La victime d’une infection nosocomiale doit s’adresser :</b><br>
-		a)	à l’ONIAM (fonds de garantie)<br>
-		b)	à la CICI (Commission interrégionale de conciliation et d’indemnisation)<br>
+		<mark>a)</mark>	à l’ONIAM (fonds de garantie)<br>
+		<mark>b)</mark>	à la CICI (Commission interrégionale de conciliation et d’indemnisation)<br>
 		c)	à l’établissement de santé responsable<br><br>
 		<b>
 		3.	La victime d’un produit présentant un défaut de sécurité peut invoquer :</b><br>
-		a)	le régime de responsabilité de plein droit de la loi du 19 mai 1998 relative à la responsabilité du fait des produits défectueux<br>
+		<mark>a)</mark>	le régime de responsabilité de plein droit de la loi du 19 mai 1998 relative à la responsabilité du fait des produits défectueux<br>
 		b)	la garantie des vices cachés<br>
 		c)	le défaut de conformité du produit<br><br>
 		<b>
 		4.	Parmi les conditions d’application de la loi du 19 mai 1998 relative à la responsabilité du fait des produits défectueux, on trouve :</b><br>
 		a)	la mise sur le marché du produit<br>
-		b)	la mise en circulation du produit
+		<mark>b)</mark>	la mise en circulation du produit
 		</p>
 		<br>
 		<h4> Réponse au cas pratique / QCM :</h4>

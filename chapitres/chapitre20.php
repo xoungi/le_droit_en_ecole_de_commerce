@@ -127,23 +127,23 @@
 		<?php } ?>
 		<br><h4>QCM d'aide : </h4><p> <b>
 		1.	Comment répondre à l’objectif décliné par les étudiants qui ne veulent pas être responsables en cas d’absence de neige ?</b><br>
-		a)	Rédiger une clause résolutoire<br>
-		b)	Rédiger une clause relative aux obligations (moyen ou résultat)<br>
-		c)	Rédiger une clause de limitation de responsabilité en cas de force majeure<br><br>
+		<mark>a)</mark>	Rédiger une clause résolutoire<br>
+		<mark>b)</mark>	Rédiger une clause relative aux obligations (moyen ou résultat)<br>
+		<mark>c)</mark>	Rédiger une clause de limitation de responsabilité en cas de force majeure<br><br>
 		<b>
 		2.	Quelle clause rédiger pour s’assurer de la remise des fonds à l’œuvre caritative ?</b><br>
 		a)	une clause pénale<br>
-		b)	une clause particulière sur mesure<br>
+		<mark>b)</mark>	une clause particulière sur mesure<br>
 		c)	une clause résolutoire<br><br>
 		<b>
 		3.	Les deux parties ne souhaitent pas régler leur éventuel différent en justice, elles peuvent rédiger</b><br>
-		a)	Une clause de règlement amiable de leur différend<br>
+		<mark>a)</mark>	Une clause de règlement amiable de leur différend<br>
 		b)	Une clause compromissoire<br>
 		c)	Une clause d’attribution de compétence territoriale<br><br>
 		<b>
 		4.	Comment fixer la contrepartie donnée par l’entreprise dans une clause précise ?</b><br>
 		a)	Il suffit de mentionner le prix en espèce de la prestation<br>
-		b)	Il convient de rédiger une clause relative au prix tout en intégrant les prestations en nature<br>
+		<mark>b)</mark>	Il convient de rédiger une clause relative au prix tout en intégrant les prestations en nature<br>
 		c)	Le contrat n’a pas à mentionner le prix qui relève de la seule négociation des parties
 		</p><br>
 		<h4> Réponse au cas pratique :</h4>	

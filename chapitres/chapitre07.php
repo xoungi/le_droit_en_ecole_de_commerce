@@ -147,25 +147,25 @@
 		<?php } ?>
 		<br><h4>QCM d'aide : </h4><p> <b>
 		1.	Quelles sont les structures juridiques qui permettent la distribution de bénéfices ?</b><br>
-		a)	la société à responsabilité limitée<br>
-		b)	la société par actions simplifiée<br>
+		<mark>a)</mark>	la société à responsabilité limitée<br>
+		<mark>b)</mark>	la société par actions simplifiée<br>
 		c)	l’association<br>
-		d)	la société civile<br><br>
+		<mark>d)</mark>	la société civile<br><br>
 		<b>
 		2.	Comment être certain qu’un acte accompli au nom d’une société avant son immatriculation est repris par elle ?</b><br>
-		a)	en donnant mandat à un membre d’accomplir cet acte en prévoyant la reprise par la société<br>
-		b)	en décidant de la reprise de cet acte dans une assemblée générale des associés postérieure à l’acquisition de la personnalité morale<br>
+		<mark>a)</mark>	en donnant mandat à un membre d’accomplir cet acte en prévoyant la reprise par la société<br>
+		<mark>b)</mark>	en décidant de la reprise de cet acte dans une assemblée générale des associés postérieure à l’acquisition de la personnalité morale<br>
 		c)	en déposant cet acte au greffe du tribunal de commerce<br>
 		d)	en faisant signer l’acte par tous les associés, membres de la société<br><br>
 		<b>
 		3.	Une personne morale peut-elle utiliser le nom patronymique d’une personne physique dans sa dénomination sociale ?</b><br>
-		a)	oui, si la personne physique l’autorise<br>
+		<mark>a)</mark>	oui, si la personne physique l’autorise<br>
 		b)	non, jamais<br>
 		c)	oui, dans tous les cas<br><br>
 		<b>
 		4.	Autoriser une personne morale à insérer son nom patronymique dans sa dénomination sociale lui permet-il d’exploiter ce nom commercialement en en déposant la marque ?</b><br>
 		a)	oui<br>
-		b)	non
+		<mark>b)</mark>	non
 		</p>
 		<br>
 		<h4> Réponse au cas pratique / QCM :</h4>	

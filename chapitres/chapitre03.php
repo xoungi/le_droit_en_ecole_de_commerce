@@ -131,11 +131,11 @@
 		a)	toutes les taxes à l’importation<br>
 		b)	toutes les taxes à l’exportation<br>
 		c)	toutes les impositions ayant le même effet qu’une taxe à l’importation et/ou à l’exportation<br>
-		d)	toutes les taxes sur les marchandises<br><br>
+		<mark>d)</mark>	toutes les taxes sur les marchandises<br><br>
 		<b>
 		2.	Quel est l’évènement qui déclenche l’application de la taxe ?</b><br>
 		a)	la fabrication d’un pigment de la classe des dzêta-galadehydes<br>
-		b)	l’importation d’un pigment de la classe des dzêta-galadehydes<br>
+		<mark>b)</mark>	l’importation d’un pigment de la classe des dzêta-galadehydes<br>
 		c)	l’utilisation d’un pigment de la classe des dzêta-galadehydes dans un processus de production<br>
 		d)	la vente d’un pigment de la classe des dzêta-galadehydes<br><br>
 		<b>
@@ -143,12 +143,12 @@
 		a)	non, car toutes règle de droit présente dans un traité international doit être transposée en droit national avant d’avoir un effet<br>
 		b)	non, car seuls les Etats membres sont liés par les conventions qui ont été signées, par leurs citoyens<br>
 		c)	oui, car les textes de droit européen sont systématiquement prépondérants sur le droit national<br>
-		d)	oui, car dans les domaines de compétence de l’UE les Etats membres ont renoncé à une partie de leur souveraineté<br><br>
+		<mark>d)</mark>	oui, car dans les domaines de compétence de l’UE les Etats membres ont renoncé à une partie de leur souveraineté<br><br>
 		<b>
 		4.	Si cette taxe était appliquée, quel serait son principal effet ?</b><br>
 		a)	elle limiterait de façon générale l’utilisation des pigments dans l’industrie<br>
 		b)	elle augmenterait la compétitivité du secteur des pigments<br>
-		c)	elle limiterait l’accès des pigments belges au marché français<br>
+		<mark>c)</mark>	elle limiterait l’accès des pigments belges au marché français<br>
 		d)	elle faciliterait la libre circulation des marchandises
 		</p><br>
 		<h4> Réponse au cas pratique / QCM :</h4>

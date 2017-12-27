@@ -108,17 +108,17 @@
 		1.	En cas de procédure d’arbitrage, quel serait le droit applicable par les arbitres au fond du litige ?</b><br>
 		a)	le droit suisse<br>
 		b)	le droit français<br>
-		c)	le droit américain de l’Etat de Californie<br>
+		<mark>c)</mark>	le droit américain de l’Etat de Californie<br>
 		d)	le droit international<br><br>
 		<b>
 		2.	En cas de différend entre les parties, celles-ci doivent préalablement :</b><br>
-		a)	négocier une solution amiable<br>
+		<mark>a)</mark>	négocier une solution amiable<br>
 		b)	avoir recours à une conciliation<br>
 		c)	avoir recours à un arbitrage<br>
 		d)	engager une action devant les tribunaux d’un Etat<br><br>
 		<b>
 		3.	En cas d’échec de la procédure de conciliation, les parties doivent :</b><br>
-		a)	avoir recours à une procédure d’arbitrage<br>
+		<mark>a)</mark>	avoir recours à une procédure d’arbitrage<br>
 		b)	engager une action devant les tribunaux de l’un des deux Etats (France ou Etats-Unis)<br>
 		c)	négocier à nouveau<br>
 		d)	renoncer à leurs droits<br><br>
@@ -126,7 +126,7 @@
 		4.	La procédure d’arbitrage devra être conforme :</b><br>
 		a)	au droit américain<br>
 		b)	au droit suisse cantonal<br>
-		c)	au droit suisse fédéral et au droit français applicables en matières d’arbitrage international<br>
+		<mark>c)</mark>	au droit suisse fédéral et au droit français applicables en matières d’arbitrage international<br>
 		d)	au droit international
 		</p>
 		<br>

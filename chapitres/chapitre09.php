@@ -100,22 +100,22 @@
 		<br><h4>QCM d'aide : </h4><p> <b>
 		1.	Sont considérés comme des droit de la personnalité :</b><br>
 		a)	les prérogatives qui permettent à chacun de s’enrichir<br>
-		b)	les droit qui assurent le respect de l’individu et son essence<br><br>
+		<mark>b)</mark>	les droit qui assurent le respect de l’individu et son essence<br><br>
 		<b>
 		2.	Peut-on passer un contrat portant sur un ou plusieurs droits de la personnalité ?</b><br>
 		a)	oui, toujours et sans limite<br>
 		b)	non, jamais<br>
-		c)	seulement de manière exceptionnelle et limitée<br><br>
+		<mark>c)</mark>	seulement de manière exceptionnelle et limitée<br><br>
 		<b>
 		3.	La clause par laquelle une personne accepte d’être filmée sans discontinuer pendant plus de deux mois :</b><br>
 		a)	est parfaitement valable, dès lors que le participant a bel et bien signé le contrat<br>
 		b)	doit obligatoirement être précisée dans le contrat pour être valable<br>
-		c)	n’est pas valable même si précisée dans le contrat<br><br>
+		<mark>c)</mark>	n’est pas valable même si précisée dans le contrat<br><br>
 		<b>
 		4.	La clause par laquelle un participant doit se conformer aux règles et instructions de l’organisateur sans les discuter :</b><br>
 		a)	est légale, le participant ayant signé une convention en connaissance de cause<br>
 		b)	n’est valable que si les règles et instructions ont été entièrement portées à la connaissance du participant avant la signature du contrat<br>
-		c)	n’est jamais valable
+		<mark>c)</mark>	n’est jamais valable
 		</p>
 		<br>
 		<h4> Réponse au cas pratique / QCM :</h4>	

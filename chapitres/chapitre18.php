@@ -129,14 +129,14 @@
 		<?php } ?>
 		<br><h4>QCM d'aide : </h4><p> <b>
 		1.	De quels moyen M. MIRAIL dispose-t-il pour renoncer au contrat qui l’oppose à l’entreprise d’entretien ?</b><br>
-		a)	une résolution judiciaire<br>
+		<mark>a)</mark>	une résolution judiciaire<br>
 		b)	application d’une clause résolutoire<br>
-		c)	une rupture unilatérale du contrat<br><br>
+		<mark>c)</mark>	une rupture unilatérale du contrat<br><br>
 		<b>
 		2.	Si M. MIRAIL souhaite rompre unilatéralement ce contrat, quelles sont les conditions à réunir ?</b><br>
 		a)	la rupture unilatérale est impossible sans décision de justice<br>
-		b)	un manquement grave des obligations du débiteur<br>
-		c)	l’urgence qui impose l’interruption du contrat<br><br>
+		<mark>b)</mark>	un manquement grave des obligations du débiteur<br>
+		<mark>c)</mark>	l’urgence qui impose l’interruption du contrat<br><br>
 		<b>
 		3.	M. MIRAIL souhaite obtenir la restitution de toutes les sommes versées à l’entreprise d’entretien. Est-ce possible ?</b><br>
 		a)	oui<br>

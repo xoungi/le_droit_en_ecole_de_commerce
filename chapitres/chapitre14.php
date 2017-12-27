@@ -117,22 +117,22 @@
 		<p> <b>
 		1.	Selon vous, le contrat entre Monsieur MIRAIL et Monsieur TEUDEMOISELLE est-il formé ?</b><br>
 		a)	oui, le contrat est formé<br>
-		b)	non, le contrat n’est pas formé<br><br>
+		<mark>b)</mark>	non, le contrat n’est pas formé<br><br>
 		<b>
 		2.	Si l’on part du constat selon lequel les parties sont en période précontractuelle, comment ont-elles formalisé leurs rapports ? Il s’agit :</b><br>
-		a)	de simples pourparlers<br>
+		<mark>a)</mark>	de simples pourparlers<br>
 		b)	d’une promesse de contrat<br>
 		c)	d’un avant-contrat<br><br>
 		<b>
 		3.	Quelle est la valeur juridique de la lettre envoyée par Monsieur TEUDEMOISELLE à Monsieur MIRAIL ? Il s’agit :</b><br>
 		a)	d’une lettre d’acceptation d’un contrat<br>
-		b)	d’une simple lettre commerciale<br>
+		<mark>b)</mark>	d’une simple lettre commerciale<br>
 		c)	d’un devis, forme de proposition de contrat<br><br>
 		<b>
 		4.	Sur quel argument Monsieur MIRAL pourrait-il se fonder pour ne pas payer la facture établie par Monsieur TEUDEMOISELLE à son égard ?</b><br>
 		a)	sur un vice du consentement<br>
 		b)	sur l’annulation du contrat<br>
-		c)	sur le terrain de la période pré-contractuelle
+		<mark>c)</mark>	sur le terrain de la période pré-contractuelle
 		</p>
 		<br>
 		<h4> Réponse au cas pratique / QCM :</h4>	

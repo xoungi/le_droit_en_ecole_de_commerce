@@ -97,21 +97,21 @@
 		<?php } ?>
 		<br><h4>QCM d'aide : </h4><p> <b>
 		1.	En application des dispositions de la loi française, la demande d’indemnisation du préjudice par la société « FERUDUNORD » serait-elle acceptable ?</b><br>
-		a)	oui<br>
+		<mark>a)</mark>	oui<br>
 		b)	non<br><br>
 		<b>
 		2.	En application des dispositions de la loi anglaise, la demande d’indemnisation du préjudice par la société « FERUDUNORD » serait-elle acceptable ?</b><br>
 		a)	oui<br>
-		b)	non<br><br>
+		<mark>b)</mark>	non<br><br>
 		<b>
 		3.	En application des dispositions du Code civil allemand, la demande d’indemnisation du préjudice par la société « FERUDUNORD » serait-elle acceptable ?</b><br>
 		a)	oui<br>
-		b)	non<br><br>
+		<mark>b)</mark>	non<br><br>
 		<b>
 		4.	A l’issue d’une analyse de droit comparé, peut-on déduire que dans tous les systèmes juridiques exposés, il existe un volonté de limiter la responsabilité des personnes dont la négligence est à l’origine d’une préjudice économique pour un tiers ?</b><br>
 		a)	non, jamais<br>
 		b)	oui, la volonté est identique dans tous les systèmes<br>
-		c)	oui, mais la volonté n’est pas exactement identique dans tous les systèmes </p>
+		<mark>c)</mark>	oui, mais la volonté n’est pas exactement identique dans tous les systèmes </p>
 		<br>
 		<h4> Réponse au cas pratique / QCM :</h4>
 		<?php

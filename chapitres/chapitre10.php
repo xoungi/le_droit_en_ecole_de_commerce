@@ -112,7 +112,7 @@
 		<?php } ?>
 		<br><h4>QCM d'aide : </h4><p> <b>
 		1.	Lorsqu’un salarié cause des dommages dans le cadre de sa fonction, sans commettre d’infraction pénale intentionnelle, la victime peut agir contre :</b><br>
-		a)	l’employeur exclusivement, sans possibilité de recours pour l’employeur contre son salarié<br>
+		<mark>a)</mark>	l’employeur exclusivement, sans possibilité de recours pour l’employeur contre son salarié<br>
 		b)	le salarié ou l’employeur, avec possibilité de recours pour l’employeur contre son salarié<br>
 		c)	le salarié ou l’employeur, sans possibilité de recours pour l’employeur contre son salarié<br><br>
 		<b>
@@ -120,16 +120,16 @@
 		a)	sans autorisation<br>
 		b)	hors de ses fonctions<br>
 		c)	à des fins étrangères à ses attributs<br>
-		d)	à cette triple condition (a + b + c)<br><br>
+		<mark>d)</mark>	à cette triple condition (a + b + c)<br><br>
 		<b>
 		3.	Pour avoir la qualité de gardien d’une chose, il faut :</b><br>
 		a)	en être propriétaire<br>
 		b)	en être le détenteur matériel au moment du dommage<br>
-		c)	avoir un pouvoir d’usage, de contrôle et de direction<br><br>
+		<mark>c)</mark>	avoir un pouvoir d’usage, de contrôle et de direction<br><br>
 		<b>
 		4.	Un salarié peut-il être responsable des dommages imputables au fait d’une chose dont il avait la garde, dans l’exercice de sa fonction ?</b><br>
 		a)	oui, dès lors que le salarié a la détention matérielle de la chose au moment du dommage<br>
-		b)	non, parce que le lien de subordination du salarié à l’égard de son employeur lui retire la capacité d’être « gardien » d’une chose, au sens de l’article 1384 alinéa 1 du Code civil
+		<mark>b)</mark>	non, parce que le lien de subordination du salarié à l’égard de son employeur lui retire la capacité d’être « gardien » d’une chose, au sens de l’article 1384 alinéa 1 du Code civil
 		</p><h4>
 		<br>
 		<h4> Réponse au cas pratique / QCM :</h4>	

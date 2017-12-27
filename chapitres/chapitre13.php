@@ -121,23 +121,23 @@
 		1.	La décision de nationalisation prise par l’Etat peut-elle être remise en cause ?</b><br>
 		a)	oui, car elle est contraire au contrat de concession et aux engagements de l’Etat<br>
 		b)	oui, car elle est contraire aux principes du droit international<br>
-		c)	non, car l’Etat est souverain quant à ses richesses naturelles<br>
+		<mark>c)</mark>	non, car l’Etat est souverain quant à ses richesses naturelles<br>
 		d)	non, car cette décision est imposée par le droit international<br><br>
 		<b>
 		2.	L’Etat GAZOLAND peut-il contester la compétence du tribunal arbitral qui aurait été saisi par l’entreprise étrangère, HYDROP-OIL ?</b><br>
-		a)	non, car elle est prévue par le contrat de concession<br>
+		<mark>a)</mark>	non, car elle est prévue par le contrat de concession<br>
 		b)	oui, car elle est contraire aux principes du droit international<br>
 		c)	oui, car l’Etat est souverain quant à ses richesses naturelles et cette décision échappe à la juridiction du tribunal arbitral<br>
 		d)	oui, car son immunité est imposée par le droit international<br><br>
 		<b>
 		3.	Le tribunal arbitral saisi peut-il condamner GAZOLAND à verser des dommages-intérêts à l’entreprise HYDROP-OIL ?</b><br>
-		a)	oui, car cela est prévu par le contrat de concession<br>
+		<mark>a)</mark>	oui, car cela est prévu par le contrat de concession<br>
 		b)	non, car cela serait contraire aux principes du droit international<br>
 		c)	non, car l’Etat est souverain quant à ses richesses naturelles et cette décision échappe à la juridiction du tribunal arbitral<br>
 		d)	non, car l’immunité de l’Etat est imposée par le droit international<br><br>
 		<b>
 		4.	Le dédommagement de l’entreprise HYDROP-OIL doit-il être proportionnel au préjudice réellement subi par cette dernière ?</b><br>
-		a)	oui, car cela résulte des principes généraux du droit international et c’est conforme au contrat de concession<br>
+		<mark>a)</mark>	oui, car cela résulte des principes généraux du droit international et c’est conforme au contrat de concession<br>
 		b)	non, car l’Etat est trop pauvre<br>
 		c)	non, car le droit de l’Etat prévoit une indemnité limitée<br>
 		d)	non, car le dédommagement n’a pas un caractère obligatoire

@@ -115,18 +115,18 @@
 		1.	D’après les faits de l’espèce, de quel type de groupe de contrat s’agit-il ?</b><br>
 		a)	Un ensemble contractuel<br>
 		b)	Une chaîne de contrats non translatifs de propriété<br>
-		c)	Une chaîne de contrats translatifs de propriété<br><br>
+		<mark>c)</mark>	Une chaîne de contrats translatifs de propriété<br><br>
 		<b>
 		2.	Quelle est la nature de la responsabilité encourue par la société Y vis-à-vis de M. Mirail ?</b><br>
-		a)	La responsabilité est contractuelle<br>
+		<mark>a)</mark>	La responsabilité est contractuelle<br>
 		b)	La responsabilité est délictuelle<br><br>
 		<b>
 		3.	La société Y peut-elle opposer à M. Mirail la clause limitative de responsabilité contenue dans le contrat entre M. Mirail et la société X</b><br>
 		a)	Oui<br>
-		b)	Non<br><br>
+		<mark>b)</mark>	Non<br><br>
 		<b>
 		4.	La société Y peut-elle opposer à M. Mirail la clause limitative de responsabilité contenue dans le contrat entre la société X et la société Y ?</b><br>
-		a)	Oui<br>
+		<mark>a)</mark>	Oui<br>
 		b)	Non
 		</p><br>
 		<h4> Réponse au cas pratique / QCM :</h4>	

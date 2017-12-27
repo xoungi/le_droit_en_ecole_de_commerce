@@ -137,22 +137,22 @@
 		<br><h4>QCM d'aide : </h4>
 		<p> <b>
 		1.	L’un des grands principes de la justice en France est la gratuité. Cela signifie-t-il qu’un procès ne coûtera rien en définitive au justiciable qui aura obtenu gain de cause ?</b><br>
-		a)	non<br>
+		<mark>a)</mark>	non<br>
 		b)	oui<br><br>
 		<b>
 		2.	Si l’accès à la justice est limité par le coût qu’engendre le procès comment permettre à tout citoyen de disposer d’un réel accès au-delà des contingences financières ?</b><br>
-		a)	par l’aide juridictionnelle<br>
-		b)	par l’assurance protection juridique<br><br>
+		<mark>a)</mark>	par l’aide juridictionnelle<br>
+		<mark>b)</mark>	par l’assurance protection juridique<br><br>
 		<b>
 		3.	En raison de la durée des procédures, Yanis s’interroge sur la résolution des litiges civils présentant un caractère d’urgence. Existe-t-il une procédure exceptionnelle ?</b><br>
 		a)	non, la justice a besoin de temps, elle ne peut être rendue dans l’urgence<br>
-		b)	oui, avec des conditions restrictives<br><br>
+		<mark>b)</mark>	oui, avec des conditions restrictives<br><br>
 		<b>
 		4.	Malgré la judiciarisation de notre société, Yanis sait qu’il existe des solutions évitant d’aller systématiquement devant une juridiction pour obtenir une décision de justice. Quels sont ces principaux modes non juridictionnels des conflits ?</b><br>
 		a)	l’arbitrage<br>
-		b)	la conciliation<br>
-		c)	la médiation<br>
-		d)	la transaction
+		<mark>b)</mark>	la conciliation<br>
+		<mark>c)</mark>	la médiation<br>
+		<mark>d)</mark>	la transaction
 		</p><br>
 		<h4> Réponse au cas pratique / QCM :</h4>	
 		<?php

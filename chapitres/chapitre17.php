@@ -110,20 +110,20 @@
 		<?php } ?>
 		<br><h4>QCM d'aide : </h4><p> <b>
 		1.	M. Mirail peut-il être considéré comme un tiers au contrat unissant M. Martin à son ancienne entreprise ?</b><br>
-		a)	Oui<br>
+		<mark>a)</mark>	Oui<br>
 		b)	Non<br><br>
 		<b>
 		2.	M. Mirail peut-il se voir opposer la clause de non-concurrence unissant son nouvel employé à son ancien employeur ?</b><br>
 		a)	En tant que tiers au contrat, M. Mirail n’est pas concerné par cette clause de non-concurrence<br>
-		b)	Même en tant que tiers, une telle clause lui est opposable<br><br>
+		<mark>b)</mark>	Même en tant que tiers, une telle clause lui est opposable<br><br>
 		<b>
 		3.	Un contrat de travail est-il soumis à une exécution de bonne fois et de loyauté comme dans tout autre contrat ?</b><br>
-		a)	Oui<br>
+		<mark>a)</mark>	Oui<br>
 		b)	Non<br><br>
 		<b>
 		4.	M. Mirail peut-il se fonder sur cette obligation d’exécuter le contrat de bonne fois, pour justifier un licenciement à l’encontre d’un employé qui refuse tout contact avec l’entreprise pendant la durée de son arrêt maladie ?</b><br>
 		a)	Oui, le refus de l’employé de communiquer constitue une faute justifiant un licenciement et va à l’encontre de l’obligation d’exécuter le contrat de bonne foi<br>
-		b)	Non, l’employé est dispensé, pendant la durée de son arrêt maladie, de fournir une quelconque prestation de travail à l’égard de son employeur
+		<mark>b)</mark>	Non, l’employé est dispensé, pendant la durée de son arrêt maladie, de fournir une quelconque prestation de travail à l’égard de son employeur
 		</p><br>
 		<h4> Réponse au cas pratique / QCM :</h4>	
 		<?php

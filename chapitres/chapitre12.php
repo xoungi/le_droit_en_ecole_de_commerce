@@ -114,21 +114,21 @@
 		<?php } ?>
 		<br><h4>QCM d'aide : </h4><p> <b>
 		1.	Iris FOGERER sait que la responsabilité pénale du chef d’entreprise a connu une extension considérable. Elle s’interroge… le droit pénal impose le respect de règles, sous peine de sanctions. A propos de quel type de relations ?</b><br>
-		a)	les relations du chef d’entreprise avec les fournisseurs<br>
-		b)	les relations du chef d’entreprise avec les salariés<br>
-		c)	les relations du chef d’entreprise avec les clients<br><br>
+		<mark>a)</mark>	les relations du chef d’entreprise avec les fournisseurs<br>
+		<mark>b)</mark>	les relations du chef d’entreprise avec les salariés<br>
+		<mark>c)</mark>	les relations du chef d’entreprise avec les clients<br><br>
 		<b>
 		2.	Iris FOGERER pense que la délégation de pouvoirs offre au dirigeant la possibilité de désigner un tiers pour engager valablement la société, notamment pendant l’absence du représentant légal. Est-elle suffisamment informée ?</b><br>
 		a)	oui<br>
-		b)	non<br><br>
+		<mark>b)</mark>	non<br><br>
 		<b>
 		3.	Sachant qu’un salarié peut, dans le cadre de son activité professionnelle, engager sa responsabilité pénale, celle-ci peut-elle avoir une influence sur la responsabilité civile de son employeur ?</b><br>
-		a)	oui<br>
+		<mark>a)</mark>	oui<br>
 		b)	non<br><br>
 		<b>
 		4.	Plus généralement, Iris FOGERER s’interroge sur l’influence de la responsabilité pénale d’un dirigeant à l’égard des tiers. Si un dirigeant est l’auteur d’une faute constituant une infraction pénale et entraînant des conséquences dommageables à l’égard de tiers, doit-il nécessairement répondre de sa responsabilité civile à l’égard des tiers ?</b><br>
 		a)	oui, car s’il y a faute pénale, il y a faute civile<br>
-		b)	pas nécessairement, car un dirigeant n’engage sa responsabilité à l’égard des tiers que si il a commis une faute séparable ou détachable de ses fonctions
+		<mark>b)</mark>	pas nécessairement, car un dirigeant n’engage sa responsabilité à l’égard des tiers que si il a commis une faute séparable ou détachable de ses fonctions
 		</p>
 		<br>
 		<h4> Réponse au cas pratique :</h4>	

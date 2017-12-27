@@ -122,14 +122,14 @@
 			a)	oui, car le décret est postérieur à la convention fiscale<br>
 			b)	oui, car la convention fiscale est contraire aux principes du droit international<br>
 			c)	oui, car l’Etat est souverain quant à sa politique fiscale<br>
-			d)	non, car la convention fiscale est un traité, soit, en principe, une norme supérieure à un Décret<br><br>
+			<mark>d)</mark>	non, car la convention fiscale est un traité, soit, en principe, une norme supérieure à un Décret<br><br>
 			<b>2.	L’Etat LAVIN peut-il contester la compétence du tribunal de l’Etat LAVIN qui aurait été saisi par l’entreprise étrangère TONIC ?</b><br>
-			a)	non, car l’entreprise demande l’application d’une norme juridique supérieure dans l’ordre juridique interne<br>
+			<mark>a)</mark>	non, car l’entreprise demande l’application d’une norme juridique supérieure dans l’ordre juridique interne<br>
 			b)	oui, car elle est contraire aux principes du droit international<br>
 			c)	oui, car le décret est postérieur à la convention fiscale<br>
 			d)	oui, car son immunité est imposée par le droit international<br><br>
 			<b>3.	Le tribunal saisi peut-il condamner l’Etat LAVIN à rembourser l’excédent d’impôt retenu sur les redevances dues à l’entreprise étrangère, TONIC ?</b><br>
-			a)	oui, en application d’une norme juridique supérieure, un traité<br>
+			<mark>a)</mark>	oui, en application d’une norme juridique supérieure, un traité<br>
 			b)	non, car cela serait contraire aux principes du droit international<br>
 			c)	non, car l’Etat est souverain quant à sa politique fiscale<br>
 			d)	non, car l’immunité de l’Etat est imposée par le droit international<br><br>
@@ -137,7 +137,7 @@
 			a)	oui, car cela résulte des principes généraux du droit international<br>
 			b)	oui, car le droit international prime sur le droit interne<br>
 			c)	non, car l’Etat bénéficie d’une immunité<br>
-			d)	non, car la constitution est probablement la source du droit internet hiérarchiquement la plus importante<br> </p>
+			<mark>d)</mark>	non, car la constitution est probablement la source du droit internet hiérarchiquement la plus importante<br> </p>
 		<br><h4> Réponse au cas pratique / QCM :</h4>
 		<?php
 			if ($reponse_cas_pratique != "") {
