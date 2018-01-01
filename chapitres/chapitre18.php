@@ -143,13 +143,13 @@
 		b)	non<br><br>
 		<b>
 		4.	Quelles sont les conditions pour qu’un évènement soit reconnu de force majeure ?</b><br>
-		a)	l’irrésistibilité<br>
-		b)	l’imprévisibilité<br>
-		c)	l’extériorité<br><br>
+		<mark>a)</mark>	l’irrésistibilité<br>
+		<mark>b)</mark>	l’imprévisibilité<br>
+		<mark>c)</mark>	l’extériorité<br><br>
 		<b>
 		5.	Si la force majeure est reconnue, est-il possible pour M. MIRAIL d’obtenir le paiement de dommages intérêts par son débiteur ?</b><br>
 		a)	oui<br>
-		b)	non
+		<mark>b)</mark>	non
 		</p><br>
 		<h4> Réponse au cas pratique / QCM :</h4>	
 		<?php

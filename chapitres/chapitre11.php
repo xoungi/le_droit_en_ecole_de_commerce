@@ -128,8 +128,7 @@
 		1.	La victime d’une infection nosocomiale peut obtenir une indemnisation :</b><br>
 		a)	uniquement pour ses dommages les plus graves<br>
 		b)	uniquement en cas de « manquement caractérisé aux obligations posées par la réglementation en matière de lutte contre les infections nosocomiales »<br>
-		c)	sur le fondement de la responsabilité de plein droit de l’établissement de santé<br>
-		<mark>d)</mark><br><br>
+		<mark>c)</mark>	sur le fondement de la responsabilité de plein droit de l’établissement de santé<br>
 		<b>
 		2.	La victime d’une infection nosocomiale doit s’adresser :</b><br>
 		<mark>a)</mark>	à l’ONIAM (fonds de garantie)<br>
